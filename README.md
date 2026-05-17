@@ -25,9 +25,9 @@ As a hobby, I do Linux ricing, listen to music and occasionally touch grass. Tha
 ---
 
 <details>
-  <summary><i>le footer</i></summary>
+  <summary><i>Hmmmm..</i></summary>
 
    *Reddit* > u/praizeTheFool <br/>
    *Github* > notcandy001 <br/>
-   *Site* > roderic.me <br/>
+   *Site* > [roderic.me](https://roderic.me/) <br/>
 </details>
