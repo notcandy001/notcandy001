@@ -1,12 +1,11 @@
 ![Welcome](https://github.com/notcandy001/notcandy001/blob/main/src/just.gif)
 
 
-**cs student.** building things from scratch to understand them — compositors, shells, languages.<br/>
+**as a cs student.** building things from scratch to understand them,  build compositors, shells, languages.<br/>
 As a hobby, I do Linux ricing, listen to music and occasionally touch grass. That's pretty much it.<br/>
 <br/>
 
----
-
+![Divider](https://vaxerski.xyz/github/repos1.gif)
 **Moonveil** [ s ] is an extremely customizable Hyprland dotfiles setup with a custom Quickshell shell called CrescentShell.<br/>
 **CrescentShell** [ s ] is an extremely customised and usable Wayland shell built on Quickshell.<br/>
 **rodesani** [ uf ] is ...<br/>
