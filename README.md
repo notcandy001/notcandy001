@@ -1,3 +1,6 @@
+![Welcome](https://github.com/notcandy001/notcandy001/blob/main/src/just.gif)
+
+
 **cs student.** building things from scratch to understand them — compositors, shells, languages.<br/>
 As a hobby, I do Linux ricing, listen to music and occasionally touch grass. That's pretty much it.<br/>
 <br/>
