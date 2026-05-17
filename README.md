@@ -15,8 +15,8 @@ As a hobby, I do Linux ricing, listen to music and occasionally touch grass. Tha
 *f - finished, uf - unfinished, s - stable*<br/><br/>
 
 --- 
-![](https://raw.githubusercontent.com/notcandy001/ubiquitous-waffle/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/notcandy001/ubiquitous-waffle/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/notcandy001/ubiquitous-waffle/refs/heads/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/notcandy001/ubiquitous-waffle/refs/heads/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/notcandy001/ubiquitous-waffle/refs/heads/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/notcandy001/ubiquitous-waffle/refs/heads/generated/languages.svg#gh-light-mode-only)
 
