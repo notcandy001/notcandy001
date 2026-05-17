@@ -1,16 +1,32 @@
-## Hi there 👋
+**cs student.** building things from scratch to understand them — compositors, shells, languages.<br/>
+As a hobby, I do Linux ricing, listen to music and occasionally touch grass. That's pretty much it.<br/>
+<br/>
 
-<!--
-**notcandy001/notcandy001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**Moonveil** [ s ] is an extremely customizable Hyprland dotfiles setup with a custom Quickshell shell called CrescentShell.<br/>
+**CrescentShell** [ s ] is an extremely customised and usable Wayland shell built on Quickshell.<br/>
+**rodesani** [ uf ] is ...<br/>
+**noctis** [ uf ] is a Wayland compositor written in Rust with scrollable column tiling and a declarative config format.<br/>
+**noctctl** [ uf ] is an IPC client for noctis.<br/>
+**Lumi** [ f ] is a declarative, English-like programming language with a Rust interpreter, lexer, AST, and full spec.<br/>
+*Just to name a few...*<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*f - finished, uf - unfinished, s - stable*<br/><br/>
+
+---
+
+![](https://raw.githubusercontent.com/notcandy001/ubiquitous-waffle/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/notcandy001/ubiquitous-waffle/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/notcandy001/ubiquitous-waffle/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/notcandy001/ubiquitous-waffle/master/generated/languages.svg#gh-light-mode-only)
+
+---
+
+<details>
+  <summary><i>le footer</i></summary>
+
+   *Reddit* > u/praizeTheFool <br/>
+   *Github* > notcandy001 <br/>
+   *Site* > roderic.me <br/>
+</details>
