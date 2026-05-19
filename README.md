@@ -11,7 +11,7 @@ As a hobby, I do Linux ricing, listen to music and occasionally touch grass. Tha
 **rodesani** [ uf ] is ...<br/>
 **noctis** [ uf ] is a Wayland compositor written in Rust with scrollable column tiling and a declarative config format.<br/>
 **noctctl** [ uf ] is an IPC client for noctis.<br/>
-**Lumi** [ f ] is a declarative, English-like programming language with a Rust interpreter, lexer, AST, and full spec.<br/>
+**Lumi** [ uf ] is a declarative, English-like programming language with a Rust interpreter, lexer, AST, and full spec.<br/>
 *Just to name a few...*<br/>
 
 *f - finished, uf - unfinished, s - stable*<br/><br/>
