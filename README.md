@@ -8,6 +8,7 @@ As a hobby, I do Linux ricing, listen to music and occasionally touch grass. Tha
 ![Divider](https://vaxerski.xyz/github/repos1.gif)
 **Moonveil** [ s ] is an extremely customizable Hyprland dotfiles setup with a custom Quickshell shell called CrescentShell.<br/>
 **CrescentShell** [ s ] is an extremely customised and usable Wayland shell built on Quickshell.<br/>
+**Storyforge** [ s ] is moder gui reading appliction built on go .<br/>
 **rodesani** [ uf ] is anime site which is under construction ...<br/>
 **Lumi** [ uf ] is a declarative, English-like programming language with a Rust interpreter, lexer, AST, and full spec.<br/>
 *Just to name a few...*<br/>
