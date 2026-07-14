@@ -1,6 +1,3 @@
-![Welcome](https://github.com/notcandy001/notcandy001/blob/main/src/just.gif)
-
-
 well i like to build things from scratch to understand them, the things i build  compositors, shells, languages, website.<br/>
 As a hobby, I do Linux ricing, listen to music and occasionally touch grass. That's pretty much it.<br/>
 <br/>
