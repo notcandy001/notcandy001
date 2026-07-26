@@ -13,7 +13,7 @@ As a hobby, I do Linux ricing, listen to music and occasionally touch grass. Tha
 
 *f - finished, uf - unfinished, s - stable*<br/><br/>
 
-### 栄 &nbsp; stack
+ 栄 &nbsp; stack
 
 [![C](https://img.shields.io/badge/C-0a0805?style=for-the-badge&logo=c&logoColor=e2342a&labelColor=0a0805)](https://en.cppreference.com/w/c/language)
 [![Rust](https://img.shields.io/badge/Rust-0a0805?style=for-the-badge&logo=rust&logoColor=e2342a&labelColor=0a0805)](https://www.rust-lang.org)
