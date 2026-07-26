@@ -13,11 +13,21 @@ As a hobby, I do Linux ricing, listen to music and occasionally touch grass. Tha
 
 *f - finished, uf - unfinished, s - stable*<br/><br/>
 
---- 
-![](https://raw.githubusercontent.com/notcandy001/ubiquitous-waffle/refs/heads/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/notcandy001/ubiquitous-waffle/refs/heads/generated/overview.svg#gh-light-mode-only)
+### 栄 &nbsp; stack
+
+[![C](https://img.shields.io/badge/C-0a0805?style=for-the-badge&logo=c&logoColor=e2342a&labelColor=0a0805)](https://en.cppreference.com/w/c/language)
+[![Rust](https://img.shields.io/badge/Rust-0a0805?style=for-the-badge&logo=rust&logoColor=e2342a&labelColor=0a0805)](https://www.rust-lang.org)
+[![C++](https://img.shields.io/badge/C++-0a0805?style=for-the-badge&logo=cplusplus&logoColor=e2342a&labelColor=0a0805)](https://en.cppreference.com/w/cpp)
+[![Go](https://img.shields.io/badge/Go-0a0805?style=for-the-badge&logo=go&logoColor=e2342a&labelColor=0a0805)](https://go.dev)
+[![Lumi](https://img.shields.io/badge/Lumi-0a0805?style=for-the-badge&logoColor=e2342a&labelColor=0a0805)](https://github.com/lumis-lang)
+[![QML](https://img.shields.io/badge/QML-0a0805?style=for-the-badge&logo=qt&logoColor=e2342a&labelColor=0a0805)](https://doc.qt.io/qt-6/qmlapplications.html)
+[![HTML](https://img.shields.io/badge/HTML-0a0805?style=for-the-badge&logo=html5&logoColor=e2342a&labelColor=0a0805)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+
+
 ![](https://raw.githubusercontent.com/notcandy001/ubiquitous-waffle/refs/heads/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/notcandy001/ubiquitous-waffle/refs/heads/generated/languages.svg#gh-light-mode-only)
+
 
 ---
 
