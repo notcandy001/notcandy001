@@ -3,7 +3,7 @@ As a hobby, I do Linux ricing, listen to music and occasionally touch grass. Tha
 <br/>
 
 ![Divider](https://vaxerski.xyz/github/repos1.gif)
-**Moonveil** [ s ] is an extremely customizable Hyprland dotfiles setup with a custom Quickshell shell called CrescentShell.<br/>
+**Trez** formerly know as **Moonveil** [ s ] is an extremely customizable Hyprland dotfiles .<br/>
 **a-shell** [ uf ] is some shell which is under construction ...<br/>
 **CrescentShell** [ s ] is an extremely customised and usable Wayland shell built on Quickshell.<br/>
 **Storyforge** [ s ] is moder gui reading appliction built on go .<br/>
